@@ -1,9 +1,8 @@
-```[tasklist]
-### Tasks
+# Tasks
 - [x] [1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables]
 - [x] [2. Develop a model to predict which clients will be defaulted]
 - [x] [3. Develop an application credit scorecard]
-```
+
 # Method
 - Use Python library (pandas, seaborn, matplotlib) to visualize data exploration
 - Use Python library (sklearn) to predict default clients </p>
@@ -24,7 +23,7 @@ The number of working days may correlate with the financial situation of a custo
 - Customers who live with their parents or rent an apartment tend to default
 - Low-skilled laborers, cooking staff and waiters tend to have a higher risk than other occupation </p> 
 
-**2. Develop a model to predict which clients will be defaulted**
+**2. Develop a model to predict which clients will be defaulted** <br>
 _Interpret the model_ <br>
 - Lower secondary education, occupation type 2 (cooking staff, security staff, barmen staff, realty agents, low-skill laborers, drivers, hr staff, secretaries) clients have a higher probability of default
 - The larger the EXT2, EXT1, the less likely that the clients will default
