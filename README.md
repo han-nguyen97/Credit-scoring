@@ -1,8 +1,9 @@
-# Task
-[x] [1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables]
-[x] [2. Develop a model to predict which clients will be defaulted]
-[x] [3. Develop an application credit scorecard]
-
+```[tasklist]
+# Tasks
+- [x] [1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables]
+- [x] [2. Develop a model to predict which clients will be defaulted]
+- [x] [3. Develop an application credit scorecard]
+```
 # Method
 - Use Python library (pandas, seaborn, matplotlib) to visualize data exploration
 - Use Python library (sklearn) to predict default clients
@@ -32,7 +33,7 @@ _Interpret the model_
 - Clients who did not specify the EXT1 and EXT3 variables tend to not default
 - The longer the changing days of registration before application, the lower the probability that he/she will default
 
-**3. Develop an application credit scorecard**
+**3. Develop an application credit scorecard** <br>
 The scores of the customers are divided into 4 categories:
 | Categorie | Score |
 | --- | --- |
