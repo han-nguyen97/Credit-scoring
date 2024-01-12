@@ -1,7 +1,7 @@
 # Task
-1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables
-2. Develop a model to predict which clients will be defaulted
-3. Develop an application credit scorecard
+[x] [1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables]
+[x] [2. Develop a model to predict which clients will be defaulted]
+[x] [3. Develop an application credit scorecard]
 
 # Method
 - Use Python library (pandas, seaborn, matplotlib) to visualize data exploration
@@ -11,16 +11,13 @@
 **1. Explore the data** <br>
 According to the EDA: <br>
 _The relation between numerical variables and target variable:_
-- Default customers have slightly lower income compared to non-default customers
-- The loan amount of default customers is lower than the non-default customers
-- There is no difference in terms of duration in loan between non-default and default clients  
 - Young people tend to present more risk than the older ones
 In general, older people usually have more financial stability than the younger ones;
 From the perspective of a bank or a loan establishment, probably it's safer to offer better credit programs to people who has the condition to pay back.
 - People with shorter employment days have higher tendency to be default
 The number of working days may correlate with the financial situation of a customer. The higher the number of employment days, the more solid the financial stability. As a result, customers with lower job experience may have a higher risk than those with higher employment days 
 - Shorter registration days related to a higher risk
-- The shorter the number of days to change phones before using the application, the higher the risk \\
+- The shorter the number of days to change phones before using the application, the higher the risk <br>
 
   _The relation between categorical variables and target variable:_
 - People who finish lower secondary have higher risk compared to other types of education
@@ -37,7 +34,9 @@ _Interpret the model_
 
 **3. Develop an application credit scorecard**
 The scores of the customers are divided into 4 categories:
-- Poor: 600 - 760
-- Fair: 760 - 820
-- Good: 820 - 850
-- Excellent: 850 - 1000
+| Categorie | Score |
+| --- | --- |
+| Poor | 600 - 760 |
+| Fair | 760 - 820 |
+| Good | 820 - 850 |
+| Excellent | 850 - 1000 |
