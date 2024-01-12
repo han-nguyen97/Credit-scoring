@@ -1,7 +1,7 @@
 # Tasks
-- [x] [1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables]
-- [x] [2. Develop a model to predict which clients will be defaulted]
-- [x] [3. Develop an application credit scorecard]
+- :heavy_check_mark: 1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables
+- :heavy_check_mark: 2. Develop a model to predict which clients will be defaulted
+- :heavy_check_mark: 3. Develop an application credit scorecard
 
 # Method
 - Use Python library (pandas, seaborn, matplotlib) to visualize data exploration
