@@ -20,7 +20,7 @@ From the perspective of a bank or a loan establishment, probably it's safer to o
 - People with shorter employment days have higher tendency to be default
 The number of working days may correlate with the financial situation of a customer. The higher the number of employment days, the more solid the financial stability. As a result, customers with lower job experience may have a higher risk than those with higher employment days 
 - Shorter registration days related to a higher risk
-- The shorter the number of days to change phones before using the application, the higher the risk
+- The shorter the number of days to change phones before using the application, the higher the risk \\
 
   _The relation between categorical variables and target variable:_
 - People who finish lower secondary have higher risk compared to other types of education
