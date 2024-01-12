@@ -8,8 +8,8 @@
 - Use Python library (sklearn) to predict default clients
 
 # Result
-**1. Explore the data** <br\>
-According to the EDA: <br\>
+**1. Explore the data** <br>
+According to the EDA: <br>
 _The relation between numerical variables and target variable:_
 - Default customers have slightly lower income compared to non-default customers
 - The loan amount of default customers is lower than the non-default customers
