@@ -1,7 +1,7 @@
 # Tasks
-- :heavy_check_mark: 1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables
-- :heavy_check_mark: 2. Develop a model to predict which clients will be defaulted
-- :heavy_check_mark: 3. Develop an application credit scorecard
+:heavy_check_mark: 1. Explore the data and evaluate univariate relationship between the target variable and the individual predictor variables <br>
+:heavy_check_mark: 2. Develop a model to predict which clients will be defaulted <br>
+:heavy_check_mark: 3. Develop an application credit scorecard <br>
 
 # Method
 - Use Python library (pandas, seaborn, matplotlib) to visualize data exploration
@@ -16,12 +16,12 @@ In general, older people usually have more financial stability than the younger 
 - People with shorter employment days have higher tendency to be default <br>
 The number of working days may correlate with the financial situation of a customer. The higher the number of employment days, the more solid the financial stability. As a result, customers with lower job experience may have a higher risk than those with higher employment days 
 - Shorter registration days related to a higher risk
-- The shorter the number of days to change phones before using the application, the higher the risk <br>
+- The shorter the number of days to change phones before using the application, the higher the risk </p>
 
-  _The relation between categorical variables and target variable:_
+_The relation between categorical variables and target variable:_
 - People who finish lower secondary have higher risk compared to other types of education
 - Customers who live with their parents or rent an apartment tend to default
-- Low-skilled laborers, cooking staff and waiters tend to have a higher risk than other occupation </p> 
+- Low-skilled laborers, cooking staff and waiters tend to have a higher risk than other occupations </p> 
 
 **2. Develop a model to predict which clients will be defaulted** <br>
 _Interpret the model_ <br>
