@@ -13,7 +13,7 @@ According to the EDA: <br>
 _The relation between numerical variables and target variable:_
 - Young people tend to present more risk than the older ones <br>
 In general, older people usually have more financial stability than the younger ones; From the perspective of a bank or a loan establishment, probably it's safer to offer better credit programs to people who has the condition to pay back.
-- People with shorter employment days have higher tendency to be default <br>
+- People with shorter employment days have a higher tendency to be default <br>
 The number of working days may correlate with the financial situation of a customer. The higher the number of employment days, the more solid the financial stability. As a result, customers with lower job experience may have a higher risk than those with higher employment days 
 - Shorter registration days related to a higher risk
 - The shorter the number of days to change phones before using the application, the higher the risk </p>
@@ -33,7 +33,7 @@ _Interpret the model_ <br>
 
 **3. Develop an application credit scorecard** <br>
 The scores of the customers are divided into 4 categories:
-| Categorie | Score |
+| Category | Score |
 | --- | --- |
 | Poor | 600 - 760 |
 | Fair | 760 - 820 |
